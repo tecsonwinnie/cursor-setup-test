@@ -46,4 +46,98 @@ And LLMs can occasionally get numbers wrong, so you need to spot-check before an
 
 But the speed difference is real. And this is where SEO is heading.
 
+## Post 2
+Link: https://www.linkedin.com/posts/mattdiggityseo_your-site-could-be-1-on-google-and-completely-activity-7432091316001439744-vqFb
+
+Content:
+
+Your site could be #1 on Google and completely invisible to ChatGPT.
+
+That's exactly what happened to one of our clients.
+
+So we spent 6 months testing every AI SEO tactic we could find. Here's what actually worked:
+
+First, some context. This client had a quality brand. Think BMW-level product. 
+
+But they didn't show up in a single AI search result. Not Google AI Overviews, not ChatGPT, nothing.
+
+Competitors with websites that looked like they were built in 1997 were dominating every AI result in the niche.
+
+Here are the 12 tactics that changed that:
+
+—
+
+Content tactics:
+
+1. Be direct. 
+
+Stop dancing around the answer. 
+
+We found sites using playful, creative language getting completely ignored by AI. 
+
+The sites getting cited? Confident, clear, no-nonsense answers.
+
+2. Write conversationally. Search "15 minute home workout" and there's no AI Overview. 
+
+Search "what's a quick 15 minute workout I can do at home without equipment?" and there is. 
+
+Write how people actually talk.
+
+3. Nail your heading structure. 
+
+H1 for the main title. H2s for major sections or questions. H3s for subpoints. 
+
+AI uses your headings to understand what each section answers.
+
+4. Add a TLDR or key takeaway section at the top. 
+
+AI loves to cite these because they're pre-packaged, easy-to-extract answers.
+
+—
+
+Brand and trust tactics:
+
+1. Audit what AI says about you. 
+
+Ask ChatGPT "What can you tell me about [your brand]?" If anything is wrong, fix it at the source.
+
+2. Claim every listing. Google Business Profile, Yelp, LinkedIn, Trustpilot. 
+
+Make sure info matches your website. 
+
+Keep your star rating high. The number of reviews and average rating have a ridiculous influence on how AI ranks your brand.
+
+3. Build quality backlinks from relevant domains. 
+
+Oldest story in SEO. Still matters for AI.
+
+4. Cite credible sources in your own content. 
+
+AI outputs information and cites where it got it. 
+
+Do the same thing. It signals trust.
+
+5. Use expert quotes, author bios with real credentials, and display any certifications or awards on your site.
+
+6. Show proof. Case studies with real numbers. Original research. Before-and-after data. 
+
+AI is designed to surface content that demonstrates firsthand experience.
+
+Measurement tactics:
+
+1. Track AI traffic in GA4. 
+Go to Reports, Acquisition, Traffic Acquisition. Filter for referral traffic and use a regex to capture AI sources. 
+
+You'll see exactly which platforms send traffic and where it lands.
+
+2. Use tools like Ahrefs Brand Radar to find which AI keywords your competitors appear for that you don't. That's your hit list.
+
+—
+
+The result? 
+
+2,300% increase in AI referral traffic. 0 to 90+ keywords in AI Overviews. And their traditional Google traffic took off too.
+
+AI search is only growing. The sites that figure this out now will have a serious head start over everyone still playing by old rules.
+
 The people who figure out how to use AI for data analysis (not just content creation) are going to have a massive advantage over the next 12 months.
