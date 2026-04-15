@@ -1,22 +1,23 @@
-# Cursor Setup Test
+# AI-Powered SEO Content Production Research
 
-## Tools Installed
-- Cursor IDE
-- Claude Code extension
-- Codex extension
-- Git
+## Goal
+This project collects high-quality sources on how AI is used in SEO content production and strategy.
 
-## Steps Completed
-1. Installed Cursor IDE
-2. Logged into Cursor
-3. Installed Claude Code and Codex extensions
-4. Created a GitHub repository
-5. Connected local project to GitHub using Git
-6. Pulled repository into local environment
+## What’s included
+- LinkedIn posts from practitioners
+- YouTube transcripts and structured notes
+- Articles and experiments related to AI-driven SEO
 
-## Issues Encountered
-- Git was not recognized in the terminal after installation
+## How sources were selected
+- Real execution (not opinions)
+- Demonstrated workflows or systems
+- Practical use of AI in SEO
 
-## How I Solved It
-- Restarted the computer
-- Manually added Git to PATH environment variables
+## Structure
+- /research/sources.md
+- /research/linkedin-posts/
+- /research/youtube-transcripts/
+- /research/other/
+
+## Notes
+Content was manually collected, with awareness of potential automation using APIs such as YouTube transcript tools or scraping methods.
