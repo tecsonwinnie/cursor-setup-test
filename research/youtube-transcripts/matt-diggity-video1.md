@@ -12,8 +12,6 @@ Key Topics:
 
 Transcript:
 
-# AI SEO Experiment — Strict Notes (No Assumptions)
-
 ## Premise
 - The creator states they let AI run an SEO campaign
 - The goal is to test how much of SEO AI can handle
